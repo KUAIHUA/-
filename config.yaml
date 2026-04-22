@@ -1,0 +1,19 @@
+# 数据路径配置
+data:
+  path: "BankChurners.csv"  # 修改此处为实际文件名
+
+# EDA结果保存路径
+eda:
+  save_path: "./images/eda"
+
+# 模型评估结果保存路径
+results:
+  save_path: "./images/results"
+
+# 模型保存路径
+models:
+  save_path: "./models"
+
+# 日志保存路径
+logs:
+  save_path: "./logs"

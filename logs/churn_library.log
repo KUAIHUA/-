@@ -1,0 +1,14 @@
+2026-04-15 20:34:19,629 - root - INFO - SUCCESS: Logging and matplotlib config initialized.
+2026-04-15 20:34:19,654 - root - INFO - SUCCESS: Config loaded from E:\Download\商务项目4\xianmu4\config.yaml
+2026-04-15 20:34:19,885 - root - INFO - SUCCESS: Data imported (shape: (10127, 20), memory: 1.21MB)
+2026-04-15 20:34:19,886 - root - INFO - Data imported successfully: (10127, 20)
+2026-04-15 20:34:30,986 - root - INFO - SUCCESS: EDA completed and images saved.
+2026-04-15 20:34:30,988 - root - INFO - EDA completed successfully
+2026-04-15 20:34:31,023 - root - INFO - SUCCESS: Feature engineering completed (train shape: (7088, 19), test shape: (3039, 19))
+2026-04-15 20:34:31,023 - root - INFO - Feature engineering completed: train=(7088, 19), test=(3039, 19)
+2026-04-15 20:34:31,122 - root - INFO - SUCCESS: 逻辑回归 模型训练完成
+2026-04-15 20:34:33,944 - root - INFO - SUCCESS: 随机森林 模型训练完成
+2026-04-15 20:34:36,670 - root - INFO - SUCCESS: LightGBM 模型训练完成
+2026-04-15 20:34:39,650 - root - INFO - 所有结果已保存至：E:\Download\商务项目4\xianmu4\images\results
+2026-04-15 20:34:39,650 - root - INFO - 评估报告已保存至：E:\Download\商务项目4\xianmu4\images\results\模型评估报告.txt
+2026-04-15 20:34:39,652 - root - INFO - Model training and evaluation completed successfully
